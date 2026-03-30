@@ -43,7 +43,7 @@ As a Digital Ambassador, I performed a deep-dive into **Spear Phishing**—a tar
 
 ## 📑 Final Submission
 The master project report, encompassing all 5 modules and detailed reflections, is available in the documentation folder:
-👉 **[Download Project_Report.pdf](./report/Project_Report.pdf)**
+👉 **[Download Project_Report.pdf](./report/Project_Report.docx)**
 
 ---
 
