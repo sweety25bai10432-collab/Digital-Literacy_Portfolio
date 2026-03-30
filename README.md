@@ -25,6 +25,12 @@ This repository is a comprehensive capstone for the **Digital Literacy** course.
 
 ---
 
+### [Module 2: Online Collaboration](./task-3-platforms/)
+* Demonstrated proficiency in digital collaboration tools.
+* 📝 **[View My Peer Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSewEXU38ffNGdmJ6vFLLQZT-F1osZG1lHJt2EYdrKuqv6i5MA/viewform?usp=dialog)**
+* Earned technical badges on HackerRank.
+  
+
 ## 🛡️ Featured: Cybercrime Case Study (Module 5)
 As a Digital Ambassador, I performed a deep-dive into **Spear Phishing**—a targeted attack often used against students in technical fields.
 
@@ -43,7 +49,7 @@ As a Digital Ambassador, I performed a deep-dive into **Spear Phishing**—a tar
 
 ## 📑 Final Submission
 The master project report, encompassing all 5 modules and detailed reflections, is available in the documentation folder:
-👉 **[Download Project_Report.pdf](./report/Project_Report.docx)**
+👉 **[Download Project_Report.docx](Project_Report.docx)**
 
 ---
 
